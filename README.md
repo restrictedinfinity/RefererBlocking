@@ -1,2 +1,2 @@
 # RefererBlocking
-Block traffic from black-list of malicious referer domains
+Using Lambda@Edge to block traffic from black-list of malicious referer domains.
